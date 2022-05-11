@@ -67,15 +67,8 @@ namespace ShopManagement.ConsoleApp.Services
             else if (command.StartsWith("Set"))
                 {
                     string[] splitCommand = command.Split(" ");
-                    List<ShopItem> items = _shopService.GetAll();
+                    _shopService.Set(splitCommand[1], splitCommand[2]); // setting items quantity
 
-                foreach (ShopItem item in items) // searching for specified item
-                    {
-                        if(item.Name == splitCommand[1])
-                        {
-                            item.Quantity = splitCommand[2]; // changing items quantity
-                        }
-                    }
                 }
             else if (command.StartsWith("Help"))
             {

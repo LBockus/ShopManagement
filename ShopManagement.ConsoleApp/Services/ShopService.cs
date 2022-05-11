@@ -35,5 +35,16 @@ namespace ShopManagement.ConsoleApp.Services
         {
             return _items; // providing full item list
         }
+
+        public void Set(string name, string quantity)
+        {
+            foreach (ShopItem item in _items) // searching for specified item
+            {
+                if (item.Name == name)
+                {
+                    item.Quantity = quantity; // changing items quantity
+                }
+            }
+        }
     }
 }
