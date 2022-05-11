@@ -1,0 +1,15 @@
+C:\Users\misis\Documents\pratybos\ShopManagement\ShopManagement.ConsoleApp\bin\Debug\net6.0\ShopManagement.ConsoleApp.exe
+C:\Users\misis\Documents\pratybos\ShopManagement\ShopManagement.ConsoleApp\bin\Debug\net6.0\ShopManagement.ConsoleApp.deps.json
+C:\Users\misis\Documents\pratybos\ShopManagement\ShopManagement.ConsoleApp\bin\Debug\net6.0\ShopManagement.ConsoleApp.runtimeconfig.json
+C:\Users\misis\Documents\pratybos\ShopManagement\ShopManagement.ConsoleApp\bin\Debug\net6.0\ShopManagement.ConsoleApp.dll
+C:\Users\misis\Documents\pratybos\ShopManagement\ShopManagement.ConsoleApp\bin\Debug\net6.0\ShopManagement.ConsoleApp.pdb
+C:\Users\misis\Documents\pratybos\ShopManagement\ShopManagement.ConsoleApp\obj\Debug\net6.0\ShopManagement.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\misis\Documents\pratybos\ShopManagement\ShopManagement.ConsoleApp\obj\Debug\net6.0\ShopManagement.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misis\Documents\pratybos\ShopManagement\ShopManagement.ConsoleApp\obj\Debug\net6.0\ShopManagement.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\misis\Documents\pratybos\ShopManagement\ShopManagement.ConsoleApp\obj\Debug\net6.0\ShopManagement.ConsoleApp.AssemblyInfo.cs
+C:\Users\misis\Documents\pratybos\ShopManagement\ShopManagement.ConsoleApp\obj\Debug\net6.0\ShopManagement.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\misis\Documents\pratybos\ShopManagement\ShopManagement.ConsoleApp\obj\Debug\net6.0\ShopManagement.ConsoleApp.dll
+C:\Users\misis\Documents\pratybos\ShopManagement\ShopManagement.ConsoleApp\obj\Debug\net6.0\refint\ShopManagement.ConsoleApp.dll
+C:\Users\misis\Documents\pratybos\ShopManagement\ShopManagement.ConsoleApp\obj\Debug\net6.0\ShopManagement.ConsoleApp.pdb
+C:\Users\misis\Documents\pratybos\ShopManagement\ShopManagement.ConsoleApp\obj\Debug\net6.0\ShopManagement.ConsoleApp.genruntimeconfig.cache
+C:\Users\misis\Documents\pratybos\ShopManagement\ShopManagement.ConsoleApp\obj\Debug\net6.0\ref\ShopManagement.ConsoleApp.dll
