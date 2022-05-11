@@ -13,7 +13,16 @@ namespace ShopManagement.ConsoleApp.Services
         {
             _shopService = new ShopService();
         }
-            
+
+        public static bool ApplicationExit(string command, bool exit) // program exit function
+        {
+            if (command.StartsWith("Exit"))
+            {
+                exit = false; // returning false value to stop the cycle
+            }
+            return exit;
+        }
+
         public void Process(string command)
         {
             if (command.StartsWith("Add"))
@@ -76,9 +85,9 @@ namespace ShopManagement.ConsoleApp.Services
                 Console.WriteLine("List - allows you to see all items in the register.");
                 Console.WriteLine("Exit - allows you to exit the program.");
             }
-            else if (command.StartsWith("Exit"))
+            else if (command.StartsWith("Exit")) // excluding Exit command from incorrect commands
             {
-                Environment.Exit(0);
+                return;
             }
             else
             {
